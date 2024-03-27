@@ -18,7 +18,7 @@ public class ScannerWhileEx3 {
                     break;
                 }
                 sum += input;
-                 count++;
+                count++;
 
         }
 
